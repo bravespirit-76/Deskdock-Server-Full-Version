@@ -230,3 +230,6 @@ This repository serves as the official landing page for DeskDock Server. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DeskDock Server today!**
+
+---
+**Last updated:** 2026-09-07 20:22:11 UTC
